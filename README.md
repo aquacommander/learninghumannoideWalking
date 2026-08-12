@@ -159,16 +159,5 @@ For simulating "back-emf" effect and other randomizations:
 }
 ```
 
-For walking on footsteps:
 
-```
-@inproceedings{singh2022learning,
-  title={Learning Bipedal Walking On Planned Footsteps For Humanoid Robots},
-  author={Singh, Rohan P and Benallegue, Mehdi and Morisawa, Mitsuharu and Cisneros, Rafael and Kanehiro, Fumio},
-  booktitle={2022 IEEE-RAS 21st International Conference on Humanoid Robots (Humanoids)},
-  pages={686--693},
-  year={2022},
-  organization={IEEE}
-}
-```
 
