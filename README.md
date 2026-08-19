@@ -146,18 +146,5 @@ For omnidirectional walking:
 }
 ```
 
-For simulating "back-emf" effect and other randomizations:
-```
-@article{xie2023learning,
-  title={Learning bipedal walking for humanoids with current feedback},
-  author={Singh, Rohan Pratap and Xie, Zhaoming and Gergondet, Pierre and Kanehiro, Fumio},
-  journal={IEEE Access},
-  volume={11},
-  pages={82013--82023},
-  year={2023},
-  publisher={IEEE}
-}
-```
-
 
 
