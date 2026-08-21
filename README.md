@@ -134,17 +134,6 @@ reward_weights:
 ## Citation
 If you find this work useful in your own research, please cite the following works:
 
-For omnidirectional walking:
-```
-@inproceedings{singh2024robust,
-  title={Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning},
-  author={Singh, Rohan P and Morisawa, Mitsuharu and Benallegue, Mehdi and Xie, Zhaoming and Kanehiro, Fumio},
-  booktitle={2024 IEEE-RAS 23rd International Conference on Humanoid Robots (Humanoids)},
-  pages={497--504},
-  year={2024},
-  organization={IEEE}
-}
-```
 
 
 
