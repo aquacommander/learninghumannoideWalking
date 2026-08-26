@@ -131,9 +131,3 @@ reward_weights:
 ![curve](https://user-images.githubusercontent.com/16384313/180697266-7b44beb3-38bf-4494-b568-963919dc1106.gif)
 
 
-## Citation
-If you find this work useful in your own research, please cite the following works:
-
-
-
-
