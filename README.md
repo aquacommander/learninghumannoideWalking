@@ -127,7 +127,6 @@ reward_weights:
 *Descending stairs:*
 ![climb_down](https://user-images.githubusercontent.com/16384313/180697788-d1a2eec0-0d3d-451a-95e0-9f0e60191c34.gif)
 
-*Walking on curves:*
-![curve](https://user-images.githubusercontent.com/16384313/180697266-7b44beb3-38bf-4494-b568-963919dc1106.gif)
+
 
 
