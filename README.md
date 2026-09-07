@@ -117,16 +117,5 @@ reward_weights:
    }
    ```
 
-4. Run tests: `uv run pytest tests/ -v`
-
-#### **What you should see:**
-
-*Ascending stairs:*
-![climb_up](https://user-images.githubusercontent.com/16384313/180697513-25796b1a-87e0-4ab2-9e5f-d86c58ebea36.gif)
-
-*Descending stairs:*
-![climb_down](https://user-images.githubusercontent.com/16384313/180697788-d1a2eec0-0d3d-451a-95e0-9f0e60191c34.gif)
-
-
-
+4. Run tests: `uv run pytest tests/ -v
 
