@@ -15,7 +15,6 @@ LearningHumanoidWalking/
 ├── rl/                        <-- Reinforcement learning
 ├── robots/                    <-- Robot abstractions (PD control, stepping logic)
 ├── models/                    <-- MuJoCo model files
-└── tests/                     <-- Test suite
 ```
 
 ### Key abstractions:
